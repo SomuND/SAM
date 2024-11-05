@@ -2,5 +2,5 @@
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 <script>
-document.getElementById("demo").innerHTML = "Hello JS!";
+document.getElementById("demo").innerHTML = "Hello0 JS!";
 </script>
